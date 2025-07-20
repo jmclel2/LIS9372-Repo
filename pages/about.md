@@ -14,12 +14,12 @@ credits: true
 
 ## About the Collection
 
-This collection was created for LIS9372 using GitHub Collection Builder. The metadata and images were provided by the course instructor. I have learned through this assignment: 
+This collection was created for LIS9372 using GitHub CollectionBuilder. The metadata and images were provided by the course instructor. I have learned through this assignment: 
 
 - how to use GitHub and Google sheets in a collaborative way to create a digital collection repository
 - how metadata is used in digital collection building, and how to properly structure this metadata
 - the importance of digital tools in digital humanities projects
-- these tools and the creation process is fun!
+- that these tools and the creation process is fun!
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
